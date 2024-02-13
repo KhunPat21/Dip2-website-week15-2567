@@ -6,7 +6,7 @@
                     <img :src="item.imageUrl" class="card-img-top" alt="wonders">
                     <div class="card-body">
                         <h5 class="card-title">{{ item.name }}</h5>
-                        <p class="card-text">Location - {{ item.location }}</p>
+                        <p class="card-text">{{ item.location }}</p>
                     </div>
                 </div>
             </div>
@@ -21,7 +21,7 @@ import { onMounted,ref } from 'vue';
 const allWonders = ref([]);
 
 onMounted(() => {
-    axios.get(`https://json-server-vue3-d109.onrender.com/wonders`)
+    axios.get(`https://dododo-76f0.onrender.com/DoRaeMon`)
         .then((response) => {
             // console.log(response.data)
             allWonders.value = response.data

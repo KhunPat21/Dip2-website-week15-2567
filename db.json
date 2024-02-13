@@ -51,18 +51,18 @@
       "address": "china"
     }
   ],
-  "wonders": [
+  "DoRaeMon": [
     {
       "id": "1",
-      "name": "Giza Pyramids",
-      "location": "Giza Necropolis, Egypt",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Pyramids_of_the_Giza_Necropolis.jpg"
+      "name": "fffffffff",
+      "location": "สงครามอวกาศ",
+      "imageUrl": "https://filebroker-cdn.lazada.co.th/kf/S4f283ae74a06499ab16bc55b1909f371Z.jpgพ"
     },
     {
       "id": "2",
       "name": "Great Wall of China",
-      "location": "China",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/The_Great_Wall_of_China_at_Jinshanling.jpg"
+      "location": "สงครามอวกาศ",
+      "imageUrl": "https://news.dexclub.com/wp-content/uploads/2020/11/doraemon-2021-movie-postervisual-724x1024.jpg"
     },
     {
       "id": "3",
@@ -86,7 +86,7 @@
       "id": "6",
       "name": "Machu Picchu",
       "location": "Cuzco Region, Peru",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Machu_Picchu%2C_Peru.jpg"
+      "imageUrl": "http://4.bp.blogspot.com/-gEt4Mwa0c8w/VTT4YtDqxlI/AAAAAAAAAHw/6xxzt6CYJtU/s1600/%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%97%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%AB%E0%B8%A1%E0%B8%94%2B%E0%B9%82%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%AD%E0%B8%A1%E0%B8%AD%E0%B8%99%2B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88%2B%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%A2%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%9E%E0%B8%A4%E0%B8%81%E0%B8%A9%E0%B8%B2.jpg"
     },
     {
       "id": "79d7",

@@ -10,10 +10,11 @@
           alt="img">
       </div>
       <div class="card-body">
-        <h5 class="card-title">About Page</h5>
-        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+        <h5 class="card-title">รูปโดราเอม่อน</h5>
+        <p class="card-text">ยินดีต้องรับสู่โลกเเห่งความฝันในจินตนาการของเด็ก.</p>
         <a href="#" class="btn btn-primary">Read...</a>
       </div>
     </div>
   </div>
 </template>
+

@@ -64,7 +64,7 @@ function SignUpPage() {
             <div class="col-md-5 mx-auto">
                 <div class="card shadow">
                     <div class="card-header bg-primary">
-                        <h5 class="text-white">เข้าสู่ระบบการจัดการออนไลน์</h5>
+                        <h5 class="text-white">เข้าสู่ระบบการจัดการเเห่งอนาคต</h5>
                     </div>
                     <div class="card-body text-success">
                         <form @click.prevent>
