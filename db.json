@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "id": "1",
+      "id": 1,
       "fname": "Mark ",
       "lname": "Zuckerberg",
       "email": "mark@gmail.com",
@@ -11,7 +11,7 @@
       "address": "USA"
     },
     {
-      "id": "2",
+      "id": 2,
       "fname": "Elon ",
       "lname": "Musk",
       "email": "elon@gmail.com",
@@ -21,7 +21,7 @@
       "address": "USA"
     },
     {
-      "id": "161c",
+      "id": 3,
       "fname": "Bill",
       "lname": "Gate",
       "email": "bill@gmail.com",
@@ -31,7 +31,7 @@
       "address": "USA"
     },
     {
-      "id": "9fdc",
+      "id": 4,
       "fname": "Jeff",
       "lname": "Beszos",
       "email": "jeff@gmail.com",
@@ -41,7 +41,7 @@
       "address": "USA"
     },
     {
-      "id": "17c0",
+      "id": 5,
       "fname": "Jack",
       "lname": "ma",
       "email": "jack@gmail.com",
@@ -53,47 +53,52 @@
   ],
   "DoRaeMon": [
     {
+<<<<<<< HEAD
       "id": "1",
       "name": "fffffffff",
       "location": "สงครามอวกาศ",
       "imageUrl": "https://filebroker-cdn.lazada.co.th/kf/S4f283ae74a06499ab16bc55b1909f371Z.jpgพ"
+=======
+      "id": 1,
+      "name": "Giza Pyramids",
+      "location": "Giza Necropolis, Egypt",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Pyramids_of_the_Giza_Necropolis.jpg"
+>>>>>>> 270833a2a401b0eff7aa6a8c2c70fc31afee5a54
     },
     {
-      "id": "2",
+      "id": 2,
       "name": "Great Wall of China",
       "location": "สงครามอวกาศ",
       "imageUrl": "https://news.dexclub.com/wp-content/uploads/2020/11/doraemon-2021-movie-postervisual-724x1024.jpg"
     },
     {
-      "id": "3",
+      "id": 3,
       "name": "Petra",
       "location": "Ma'an, Jordan",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/The_Monastery%2C_Petra%2C_Jordan8.jpg"
     },
     {
-      "id": "4",
+      "id": 5,
       "name": "Colosseum",
       "location": "Rome, Italy",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Rome_Colosseum_exterior_panorama.jpg"
     },
     {
-      "id": "5",
+      "id": 5,
       "name": "Chichén Itzá",
       "location": "Yucatán, Mexico",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Chichen-Itza-Castillo-Seen-From-East.JPG"
     },
     {
-      "id": "6",
+      "id": 6,
       "name": "Machu Picchu",
       "location": "Cuzco Region, Peru",
       "imageUrl": "http://4.bp.blogspot.com/-gEt4Mwa0c8w/VTT4YtDqxlI/AAAAAAAAAHw/6xxzt6CYJtU/s1600/%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%97%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%AB%E0%B8%A1%E0%B8%94%2B%E0%B9%82%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%AD%E0%B8%A1%E0%B8%AD%E0%B8%99%2B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88%2B%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%A2%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%9E%E0%B8%A4%E0%B8%81%E0%B8%A9%E0%B8%B2.jpg"
     },
     {
-      "id": "79d7",
+      "id": 7,
       "name": "Taj Mahal",
-      "location": "",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Taj_Mahal_in_March_2004.jpg/200px-Taj_Mahal_in_March_2004.jpg",
-      "label": "Agra, India"
+      "location": "Agra, India",
     }
   ]
 }
